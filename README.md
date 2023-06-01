@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋 I'm Kumaresan Vengadajalam.
+- 🌱 I’m currently learning Data science and Genomics
 <!--
 **kumaka6/kumaka6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
